@@ -3,6 +3,8 @@
 - Tutorial for setting up your constraint-based modelling using the Yeast8.5 genome-scale model (PMID: 31395883; Lu et al, 2019) and the COBRA toolbox (Ebrahim et al, 2013). Required packages for this tutorial are in the first few cells of the notebook
 ### 2. 'CHO_modelling.ipynb'
 - Tutorial for exploring the metabolic organisation and subsystems included in full-scale Chinese hamster ovary (CHO) cell models and a reduced CHO model
+### 3. 'OV56_model_transcriptomics.ipynb'
+- Tutorial for setting up a model for the OV56 ovarian cancer cell line. This includes adding media constraints according to the DMEM-F12 media and gene expression (RNAseq) constraints from the Cancer Cell Line Encyclopedia. I couldn't upload the Human-GEM-annotated.xml, but you can download this yourself at biomodels or from the Authors https://github.com/SysBioChalmers/Human-GEM/tree/main/model, but you may need to convert IDs using their txt file: https://github.com/SysBioChalmers/Human-GEM/blob/main/model/reactions.tsv, alternatively, email me (kate.meeson@manchester.ac.uk) and I will send you the version of the model that I was working with at the time
 ### **Models**
 ### 1. 'yeast-GEM.xml' 
 - XML file for the yeast genome-scale model used in the 'Yeast_optimisation_tutorial.ipynb' tutorial (PMID: 31395883; Lu et al, 2019)
