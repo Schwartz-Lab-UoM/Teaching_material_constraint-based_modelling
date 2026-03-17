@@ -27,18 +27,18 @@
 
 ```
 Tutorials/
-├── Chinese_Hamster_Ovary_cells/            # Folder containing tutorial for Chinese Hamster Ovary (CHO) cells  
-│   ├── CHO_modelling.ipynb                 # Tutorial for constraint-based modelling of CHO cells
-│   ├── CHOmpact_GEM_2023.xml               # Reduced CHO metabolic model (Jiménez Del Val et al., 2023)
-│   ├── iCHO2291.xml                        # 2020 CHO GEM (Yeo et al., 2020)
-│   ├── iCHO2441_221-107_producing.xml      # 2023 CHO GEM (Strain et al., 2023) updated with subsystems
-├── Ovarian_cancer/                         # Folder containing tutorial for ovarian cancer modelling
-│   ├── OV56_model_transcriptomics.ipynb    # Tutorial for constraining the Human1 GEM with transcriptomics
+├── Chinese_Hamster_Ovary_cells/              # Folder containing tutorial for Chinese Hamster Ovary (CHO) cells  
+│   ├── CHO_modelling.ipynb                   # Tutorial for constraint-based modelling of CHO cells
+│   ├── CHOmpact_GEM_2023.xml                 # Reduced CHO metabolic model (Jiménez Del Val et al., 2023)
+│   ├── iCHO2291.xml                          # 2020 CHO GEM (Yeo et al., 2020)
+│   ├── iCHO2441_221-107_producing.xml        # 2023 CHO GEM (Strain et al., 2023) updated with subsystems
+├── Ovarian_cancer/                           # Folder containing tutorial for ovarian cancer modelling
+│   ├── OV56_model_transcriptomics.ipynb      # Tutorial for constraining the Human1 GEM with transcriptomics
 │   ├── Gene_expression_constraints_OV56.csv  # Gene expression constraints from CCLE for OV56
-│   ├── DMEM_F12_all_bounds.csv             # Specific media conditions for the OV56 cell line
-├── Yeast/                                  # Folder containing tutorial for yeast cells
-│   ├── Yeast_optimisation_tutorial.ipynb   # Tutorial for constraint-based modelling of yeast cells
-│   ├── yeast-GEM.xml                       # Yeast GEM (Lu et al., 2019)
+│   ├── DMEM_F12_all_bounds.csv               # Specific media conditions for the OV56 cell line
+├── Yeast/                                    # Folder containing tutorial for yeast cells
+│   ├── Yeast_optimisation_tutorial.ipynb     # Tutorial for constraint-based modelling of yeast cells
+│   ├── yeast-GEM.xml                         # Yeast GEM (Lu et al., 2019)
 ```
 
 ## **Acknowledgements** ##
