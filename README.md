@@ -24,6 +24,7 @@
 - Help sheet for constraint-based modelling, aimed at an audience with limited modelling background.
 
 ## **Repository layout** ##
+'''
 Tutorials/
 ├── Chinese_Hamster_Ovary_cells/            # Folder containing tutorial for Chinese Hamster Ovary (CHO) cells  
   ├── CHO_modelling.ipynb                   # Tutorial for constraint-based modelling of CHO cells
@@ -37,6 +38,7 @@ Tutorials/
 ├── Yeast/                                  # Folder containing tutorial for yeast cells
   ├── Yeast_optimisation_tutorial.ipynb     # Tutorial for constraint-based modelling of yeast cells
   ├── yeast-GEM.xml                         # Yeast GEM (Lu et al, 2019)
+'''
 
 ## **Acknowledgements** ##
 I (Kate Meeson) acknowledge the University of Manchester, who employed me during the time in which I generated these tutorials. And I thank all students who have tested them as an introduction to their project 😀 
