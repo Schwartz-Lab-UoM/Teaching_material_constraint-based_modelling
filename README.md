@@ -1,5 +1,10 @@
 <img width="940" height="291" alt="image" src="https://github.com/user-attachments/assets/e5d6ad54-02c4-4970-9dde-d323bdcae3fd" />
 
+## **Related publications** ##
+Constraint-based modelling predicts metabolic signatures of low and high-grade serous ovarian cancer 10.1038/s41540-024-00418-5 NPJ Syst Biol Appl
+Transcriptome-Driven Constraint-Based Modelling Reveals Metabolic Targets for Ovarian Cancer https://doi.org/10.1101/2025.06.24.661329 Accepted by Cancer & Metabolism March 2026
+Flux Sampling Suggests Metabolic Signatures of High Antibody-Producing CHO Cells https://doi.org/10.1002/bit.28982 Biotechnology and Bioengineering
+
 ## **Teaching material constraint-based modelling** ##
 - This repository contains some tutorials for constraint-based modelling, which would be useful for undergrads, masters students, PhD students, or anyone taking on constraint-based modelling for the first time. You can work through each tutorial, changing different modelling parameters to get an understanding of how these models work and what sort of visualisations you can perform to study their output. For any questions, or if you would like to collaborate in delivering this material to students, feel free to contact me at kate.meeson@manchester.ac.uk
 
