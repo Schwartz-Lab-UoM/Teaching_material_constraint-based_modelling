@@ -1,4 +1,5 @@
 <img width="940" height="291" alt="image" src="https://github.com/user-attachments/assets/e5d6ad54-02c4-4970-9dde-d323bdcae3fd" />
+
 ## **Teaching material constraint-based modelling** ##
 - This repository contains some tutorials for constraint-based modelling, which would be useful for undergrads, masters students, PhD students, or anyone taking on constraint-based modelling for the first time. You can work through each tutorial, changing different modelling parameters to get an understanding of how these models work and what sort of visualisations you can perform to study their output. For any questions, or if you would like to collaborate in delivering this material to students, feel free to contact me at kate.meeson@manchester.ac.uk
 
